@@ -5,3 +5,4 @@ Git trackes changes of files.
 Creating a new branch is quick and AND simple.
 This is Dev branch.
 After git stash.  
+This is Dev branch, by stash.

@@ -1,0 +1,47 @@
+﻿生成启动时间为 2015/9/16 17:35:44。
+     1>项目“D:\Learn\Code\UISDK\Duilib\WTL教程合集\WTL指南\代码\WTL4MFC10_demo\WTLCabView\WTLCabView.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“.\Debug\WTLCabView.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _VC80_UPGRADE=0x0600 /l"0x0409" /nologo /fo".\Debug\WTLCabView.res" WTLCabView.rc 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\WTLCabView.exe" /INCREMENTAL /NOLOGO shlwapi.lib fdi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\WTLCabView.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Learn\Code\UISDK\Duilib\WTL教程合集\WTL指南\代码\WTL4MFC10_demo\WTLCabView\Debug\WTLCabView.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\WTLCabView.lib" /MACHINE:X86 .\Debug\WTLCabView.res
+         .\Debug\WTLCabView.exe.embed.manifest.res
+         .\Debug\aboutdlg.obj
+         .\Debug\CabFuncs.obj
+         .\Debug\DragDropSource.obj
+         .\Debug\mainfrm.obj
+         .\Debug\MyDialogs.obj
+         .\Debug\stdafx.obj
+         .\Debug\WTLCabView.obj
+         .\Debug\WTLCabViewview.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:".\Debug\WTLCabView.exe.embed.manifest" /manifest res\WTLCabView.exe.manifest .\Debug\WTLCabView.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo".\Debug\WTLCabView.exe.embed.manifest.res" .\Debug\WTLCabView_manifest.rc 
+       LinkEmbedManifest:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\WTLCabView.exe" /INCREMENTAL /NOLOGO shlwapi.lib fdi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug\WTLCabView.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Learn\Code\UISDK\Duilib\WTL教程合集\WTL指南\代码\WTL4MFC10_demo\WTLCabView\Debug\WTLCabView.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\WTLCabView.lib" /MACHINE:X86 .\Debug\WTLCabView.res
+         .\Debug\WTLCabView.exe.embed.manifest.res
+         .\Debug\aboutdlg.obj
+         .\Debug\CabFuncs.obj
+         .\Debug\DragDropSource.obj
+         .\Debug\mainfrm.obj
+         .\Debug\MyDialogs.obj
+         .\Debug\stdafx.obj
+         .\Debug\WTLCabView.obj
+         .\Debug\WTLCabViewview.obj
+         WTLCabView.vcxproj -> D:\Learn\Code\UISDK\Duilib\WTL教程合集\WTL指南\代码\WTL4MFC10_demo\WTLCabView\.\Debug\WTLCabView.exe
+       BscMake:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\Debug\WTLCabView.bsc" .\Debug\aboutdlg.sbr .\Debug\CabFuncs.sbr .\Debug\DragDropSource.sbr .\Debug\mainfrm.sbr .\Debug\MyDialogs.sbr .\Debug\stdafx.sbr .\Debug\WTLCabView.sbr .\Debug\WTLCabViewview.sbr
+       FinalizeBuildStatus:
+         正在删除文件“.\Debug\WTLCabView.unsuccessfulbuild”。
+         正在对“.\Debug\WTLCabView.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Learn\Code\UISDK\Duilib\WTL教程合集\WTL指南\代码\WTL4MFC10_demo\WTLCabView\WTLCabView.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.45
